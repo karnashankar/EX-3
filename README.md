@@ -12,8 +12,8 @@
            6. Stop the program
 ## PROGRAM :
 ```
-Developed by JANANI.S
-Register Number:212222230049
+Developed by karna S
+Register Number:212222110017
 
 CLIENT:
 
